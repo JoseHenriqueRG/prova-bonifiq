@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\joseh\\source\\repos\\prova-bonifiq\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDDADB9-541B-49F4-8C47-E3422B8D1DF6}|ProvaPubTests\\ProvaPubTests.csproj|c:\\users\\joseh\\source\\repos\\prova-bonifiq\\provapubtests\\provapubtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FEDDADB9-541B-49F4-8C47-E3422B8D1DF6}|ProvaPubTests\\ProvaPubTests.csproj|solutionrelative:provapubtests\\provapubtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDDADB9-541B-49F4-8C47-E3422B8D1DF6}|ProvaPubTests\\ProvaPubTests.csproj|c:\\users\\joseh\\source\\repos\\prova-bonifiq\\provapubtests\\services\\customers\\customerservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDDADB9-541B-49F4-8C47-E3422B8D1DF6}|ProvaPubTests\\ProvaPubTests.csproj|solutionrelative:provapubtests\\services\\customers\\customerservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDDADB9-541B-49F4-8C47-E3422B8D1DF6}|ProvaPubTests\\ProvaPubTests.csproj|c:\\users\\joseh\\source\\repos\\prova-bonifiq\\provapubtests\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDDADB9-541B-49F4-8C47-E3422B8D1DF6}|ProvaPubTests\\ProvaPubTests.csproj|solutionrelative:provapubtests\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +31,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:2:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProvaPubTests",
+              "DocumentMoniker": "C:\\Users\\joseh\\source\\repos\\prova-bonifiq\\ProvaPubTests\\ProvaPubTests.csproj",
+              "RelativeDocumentMoniker": "ProvaPubTests\\ProvaPubTests.csproj",
+              "ToolTip": "C:\\Users\\joseh\\source\\repos\\prova-bonifiq\\ProvaPubTests\\ProvaPubTests.csproj",
+              "RelativeToolTip": "ProvaPubTests\\ProvaPubTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-12T13:51:36.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "C:\\Users\\joseh\\source\\repos\\prova-bonifiq\\ProvaPubTests\\Usings.cs",
+              "RelativeDocumentMoniker": "ProvaPubTests\\Usings.cs",
+              "ToolTip": "C:\\Users\\joseh\\source\\repos\\prova-bonifiq\\ProvaPubTests\\Usings.cs",
+              "RelativeToolTip": "ProvaPubTests\\Usings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T13:51:09.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\joseh\\source\\repos\\prova-bonifiq\\ProvaPubTests\\Services\\Customers\\CustomerServiceTests.cs",
+              "RelativeDocumentMoniker": "ProvaPubTests\\Services\\Customers\\CustomerServiceTests.cs",
+              "ToolTip": "C:\\Users\\joseh\\source\\repos\\prova-bonifiq\\ProvaPubTests\\Services\\Customers\\CustomerServiceTests.cs",
+              "RelativeToolTip": "ProvaPubTests\\Services\\Customers\\CustomerServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T13:50:37.899Z",
+              "EditorCaption": ""
             }
           ]
         }
